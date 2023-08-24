@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Pulsera de cristales",
+    "description": "Pulsera con dijes de cristales",
+    "code": "ABC123",
+    "price": 15.99,
+    "status": true,
+    "stock": 30,
+    "category": "category1",
+    "thumbnail": {
+      "img1": "https://d2r9epyceweg5n.cloudfront.net/stores/949/141/products/whatsapp-image-2022-04-22-at-10-15-36-am-11-eec61d1ad78ce1928216506489823592-1024-1024.jpeg"
+    }
+  },
+  {
+    "title": "Strap Phone",
+    "description": "Strap Phone para sujetar el celular",
+    "code": "DEF456",
+    "price": 20.99,
+    "status": true,
+    "stock": 25,
+    "category": "category2",
+    "thumbnail": {
+      "img1": "https://http2.mlstatic.com/D_Q_NP_917704-MLA50848147066_072022-W.jpg"
+    }
+  },
+  {
+    "title": "Collar corto de perlas",
+    "description": "Collar corto de perlas",
+    "code": "GHI789",
+    "price": 18.99,
+    "status": true,
+    "stock": 45,
+    "category": "category3",
+    "thumbnail": {
+      "img1": "https://i.pinimg.com/736x/03/c7/e9/03c7e9bc48739a19349ad445d7204929--lupe-lourdes.jpg"
+    }
+  }
+]
